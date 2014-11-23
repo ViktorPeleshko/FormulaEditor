@@ -1,0 +1,228 @@
+.showme{ 
+    display: none;
+    }
+.showhim:hover .showme{
+    display : block;
+    }
+.showhim:hover .ok{
+    display : none;
+    }
+#layer1 {
+    background : url(images/fract.png);
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 45px; /* Ширина слоя */
+    height: 50px;
+    margin-left: 15%;
+    margin-top: 51px
+   }
+#layer2 {
+   background : url(images/sqrt.png);
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 45px; /* Ширина слоя */
+    height: 50px;
+    margin-top: 51px
+   }
+#layer3 {
+    background : url(images/sufix.png);
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 45px; /* Ширина слоя */
+    height: 50px;
+    margin-top: 51px
+   }
+#layer4 {
+    background : url(images/int.png);
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 45px; /* Ширина слоя */
+    height: 50px;
+    margin-top: 51px
+   }
+#layer5 {
+    background : url(images/summa.png);
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 45px; /* Ширина слоя */
+    height: 50px;
+    margin-top: 51px
+   }
+#layer6 {
+    background : url(images/bracket.png);
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 45px; /* Ширина слоя */
+    height: 50px;
+    margin-top: 51px
+   }
+#layer7 {
+    background : url(images/function.png);
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 45px; /* Ширина слоя */
+    height: 50px;
+    margin-top: 51px
+   }
+#layer8 {
+    background : url(images/symbol.png);
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 45px; /* Ширина слоя */
+    height: 50px;
+    margin-top: 51px
+   }
+#layer9 {
+    background : url(images/log.png);
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 45px; /* Ширина слоя */
+    height: 50px;
+    margin-top: 51px
+   }
+#layer10 {
+    background : url(images/operator.png);
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 45px; /* Ширина слоя */
+    height: 50px;
+    margin-top: 51px
+   }
+#layer11 {
+    background : url(images/matrix.png);
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 45px; /* Ширина слоя */
+    height: 50px;
+    margin-top: 51px
+   }
+#layer12 {
+    background : url(images/mathoperator.png);
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 45px; /* Ширина слоя */
+    height: 50px;
+    margin-top: 51px
+   }
+#layer13 {
+    background : url(images/infinity.png);
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 45px; /* Ширина слоя */
+    height: 50px;
+    margin-top: 51px
+   }
+#layer14 {
+    background : url(images/greek.png);
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 45px; /* Ширина слоя */
+    height: 50px;
+    margin-top: 51px
+   }
+#layer15 {
+    background : url(images/typeface.png);
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 45px; /* Ширина слоя */
+    height: 50px;
+    margin-top: 51px
+   }
+#layer16 {
+    background : url(images/measure.png);
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 45px; /* Ширина слоя */
+    height: 50px;
+    margin-top: 51px
+   }
+#layer17 {
+    background : url(images/arrow.png);
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 45px; /* Ширина слоя */
+    height: 50px;
+    margin-top: 51px
+   }
+#ButtonDiv{
+    position:fixed; 
+    background : url(images/toolbarButtom.png);
+    left: 16%;
+    margin-top: 55px;
+    width: 908px;   
+    height: 63px;  
+    }
+#BigButtonDiv{
+    position:fixed; 
+    background : url(images/toolbarButtomBig.png);
+    left: 26%;
+    margin-top: 55px;
+    width: 908px;   
+    height: 123px;  
+    }
+#BigButtonDiv1{
+    position:fixed; 
+    background : url(images/toolbarButtomBig1.png);
+    left: 26%;
+    margin-top: 55px;
+    width: 925px;   
+    height: 246px;  
+    }
+#BigButtonDiv2{
+    position:fixed; 
+    background : url(images/toolbarButtomBig2.png);
+    left: 26%;
+    margin-top: 55px;
+    width: 925px;   
+    height: 367px;  
+    }
+button {
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 58px; /* Ширина слоя */
+    height: 58px;
+    border: 0;
+    margin-left: 1px;
+    }
+.littleButton{
+    padding: 5px; /* Поля вокруг текста */
+    float: left; /* Обтекание по правому краю */
+    width: 40px; /* Ширина слоя */
+    height: 40px;
+    border: 0;
+    margin-left: 1px;
+    }
+div button:hover {
+     /* Цвет фона активного пункта */
+     border: 1px solid black;
+    }
+.toolbar{
+    margin-top: 0px;
+    background : url(images/toolbar.png);
+    height: 111px;
+    }
+
+p {
+    font-family: impact; /* Семейство шрифтов */
+    font-size: 51pt; /* Размер основного шрифта в пунктах  */
+    background-color: #f0f0f0; /* Цвет фона веб-страницы */
+    color: #333; /* Цвет основного текста */ 
+    text-align: center;
+}
+#MathInput{
+    width: 98%;
+    height: 200px;/* Высота необходимого блока */
+    position: absolute;/* Абсолютное позиционирование блока */
+    bottom: 1%;/* Отступ в процентах от верхнего края экрана */
+    text-align: left;
+    border-style: solid;
+    border-width: 4px;
+}
+#MathOutput{
+    margin-top: 15%;
+    width: 10%;
+    margin-left: 45%;
+    text-align: center;
+	  font-family: Impact;
+}
+
