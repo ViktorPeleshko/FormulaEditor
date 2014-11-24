@@ -200,6 +200,7 @@ div button:hover {
     margin-top: 0px;
     background : url(images/toolbar.png);
     height: 111px;
+    min-width: 1000px;
     }
 
 p {
